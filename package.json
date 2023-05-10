@@ -2,7 +2,7 @@
   "name": "anime",
   "version": "1.0.0",
   "description": "anime-api",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "scripts": {
     "test": "test",
     "dev": "nodemon --config nodemon.json src/index.ts"
