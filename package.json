@@ -6,7 +6,7 @@
   "scripts": {
     "test": "test",
     "dev": "nodemon --config nodemon.json src/index.ts",
-    "start": "dev"
+    "start": "npm run dev",
   },
   "keywords": [
     "anime",
